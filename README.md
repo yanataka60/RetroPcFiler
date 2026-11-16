@@ -79,4 +79,12 @@
 
 ![FILER4](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER4.png)
 
-　つまり、WindowsPC上のファイルをSDにコピーしてxx_SDにSDカードをセットするという手間をかけずにWindowsPC上のファイルを実機で使えます。
+　WindowsPC上のファイルをSDにコピーしてxx_SDにSDカードをセットするという手間をかけずにWindowsPC上のファイルを直に実機で使えるようになります。
+
+　この時も、ファイル名にアスキー文字以外が含まれている場合、ファイル名が32文字以上の場合にはリストの１列目に書かれている「Fxxxxxxx」というファイル名が実機からアクセスできるファイル名になります。
+
+　実機からWindowsPC上のファイルをLOADした場合、バーグラフで進捗状況が表示されます。
+
+![FILER5](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER5.png)
+
+　
