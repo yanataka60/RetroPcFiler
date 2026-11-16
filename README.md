@@ -94,16 +94,23 @@
 
 　ArduinoがSDカードにアクセス中でない限り「SDを使う」「PCを使う」どちらの状態でも使えます。
 
-![FILER7](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER7.png)
-
 　ウインドウが開くので「一覧を取得」ボタンをクリックします。
 
-![FILER8](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER8.png)
+![FILER7](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER7.png)
 
 　「ファイル名順」ボタンをクリックすることでファイル名順にソートして表示することが可能です。
+
+![FILER8](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER8.png)
 
 ![FILER9](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER9.png)
 
 　SDカード内のファイルがソートできるわけではありません。リスト表示だけです。
 
-　
+#### ファイル操作
+　サブフォルダ名をダブルクリックすることでサブフォルダへの移動も可能です。
+
+　また、新規フォルダの作成が可能です。
+
+　ファイル名をクリックすると「選択ファイルをPCへ保存」「選択ファイルをSDから削除」「コピー」「移動」が使えます。
+
+![FILER10](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER10.png)
