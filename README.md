@@ -1,7 +1,11 @@
 # RetroPcFiler
 ![TITLE](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/TITLE.png)
 
-　今まで開発してきたxx_SDをWindowsPCと繋いで使うためのユーティリティです。
+　今まで開発してきたxx_SDをWindowsPCから操作するユーティリティです。
+
+####　Arduinoプログラムを差し替えることでMZ-80K、MZ-700、MZ-1500、MZ-80B、MZ-2000、PC-8001、PC-8001mk2、FM-7、FM-8が今のところ使えます。
+
+####　Arduinoプログラムの検証が済み次第、対応機種を追加します。
 
 　基本機能として以下のことが出来ます。
 
@@ -28,10 +32,6 @@
 　PC-8001?PC-8001mk2ならFILES/Fの代わりに使えます。
 
 　MZ系はファイルのセットをMZからファイル名を入力して指定しているのでこの機能は使えません。
-
-　Arduinoプログラムを差し替えることでMZ-80K、MZ-700、MZ-1500、MZ-80B、MZ-2000、PC-8001、PC-8001mk2、FM-7、FM-8が今のところ使えます。
-
-　Arduinoプログラムの検証が済み次第、対応機種を追加します。
 
 ## Arduinoの書き換え
 　Arduinoフォルダにある機種別のinoファイルを使って各機種のArduinoを書き換えてください。
