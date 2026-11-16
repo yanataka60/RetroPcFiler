@@ -121,3 +121,18 @@
 ![FILER10](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER10.png)
 
 　「コピー」機能でのコピー先は、コピー元と違うフォルダのみとなります。
+
+### ダブルクリックでのファイルセット
+　FM-7、PC-8001用はファイルをダブルクリックすることで読み込むファイルとしてセットできる機能があります。
+
+　FM-7/FM-8はSDIRの代わりに使えます。
+
+　PC-8001/PC-8001mk2はFILES又はFの代わりに使えます。
+
+　WindowsPCのファイルは「PCを使う」の時にダブルクリックでセットできます。
+
+![FILER11](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER11.png)
+
+　SDカードのファイルは「SDカード管理」で一覧を取得してセットしてください。なお、サブフォルダのファイルもセットできますが、実機側のプログラムが対応していないため、正常に動作しません。
+
+![FILER12](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER12.png)
