@@ -34,6 +34,8 @@
 
 　MZ、PC、FM実機用のプログラムに変更はありませんのでROMを書き換える必要はありません。
 
+　なお、MZ-80K用ArduinoプログラムはAruino Pro Miniの容量を超過したため、FDのみでDOSファイル名「0000.MZT」をLOAD及び実行機能、FDA、FDC、FDR、FDD、FDPコマンドを削除しています。
+
 ## WindowsPC用プログラム
 　RetroPcFilerをWindowsPcの好きなフォルダにコピーしてください。
 
@@ -55,11 +57,26 @@
 
 　COMポートを選択(③)し、接続(④)をクリックします。
 
-![FILER1](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER2.png)
+![FILER2](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER2.png)
 
 　正常に接続できると「SDを使う」ボタンが薄緑色になります。
 
+　この状態の時、実機でのxx_SDの機能は今までと同じに使えます。
+
 　もし、正常に接続できなかった場合は、すべての電源を切り、再試行してください。
 
-　
+### 「SDを使う」の時のファイルリスト
+　ファイルリストに表示されているのは各機種ごとに設定されたWindowsPCのフォルダに存在するその機種で使える拡張子のファイルです。SDカードの内容ではありません。
 
+　ファイルを右クリックするとポップアップメニューが出ますので当該ファイルをSDカードにコピーすることが出来ます。
+
+![FILER3](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER3.png)
+
+　もし、ファイル名にアスキー文字以外が含まれている場合、ファイル名が32文字以上の場合にはリストの１列目に書かれている「Fxxxxxxx」というファイル名に変換してコピーします。
+
+### 「PCを使う」の時のファイルリスト
+　「PCを使う」ボタンをクリックしてください。見た目に変化はありませんが、実機からのxx_SDへのコマンドの対象がSDカードからWindowsPCのフォルダに切り替わっています。
+
+![FILER4](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER4.png)
+
+　つまり、WindowsPC上のファイルをSDにコピーしてxx_SDにSDカードをセットするという手間をかけずにWindowsPC上のファイルを実機で使えます。
