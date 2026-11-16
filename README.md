@@ -48,6 +48,11 @@
 
 　Arduinoへの電源供給をしないように出来るコンバータを使用またはVccを接続しないように工夫してください。
 
+このコンバータですとジャンパピンを抜くことでArduinoへ電源供給しないようにできます。
+
+![SERIAL](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/SERIAL.jpg)
+
+
 ## 使い方
 ![FILER1](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER1.png)
 
@@ -114,3 +119,5 @@
 　ファイル名をクリックすると「選択ファイルをPCへ保存」「選択ファイルをSDから削除」「コピー」「移動」が使えます。
 
 ![FILER10](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER10.png)
+
+　「コピー」機能でのコピー先は、コピー元と違うフォルダのみとなります。
