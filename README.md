@@ -55,7 +55,7 @@
 
 　COMポートを選択(③)し、接続(④)をクリックします。
 
-![FILER1](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER1.png)
+![FILER1](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER2.png)
 
 　正常に接続できると「SDを使う」ボタンが薄緑色になります。
 
