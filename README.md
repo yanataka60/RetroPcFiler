@@ -87,4 +87,23 @@
 
 ![FILER5](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER5.png)
 
+### 「SDカード管理」
+　「SDカード管理」ボタンを押すことでSDカード内のファイルを管理することが出来ます。
+
+![FILER6](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER6.png)
+
+　ArduinoがSDカードにアクセス中でない限り「SDを使う」「PCを使う」どちらの状態でも使えます。
+
+![FILER7](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER7.png)
+
+　ウインドウが開くので「一覧を取得」ボタンをクリックします。
+
+![FILER8](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER8.png)
+
+　「ファイル名順」ボタンをクリックすることでファイル名順にソートして表示することが可能です。
+
+![FILER9](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/FILER9.png)
+
+　SDカード内のファイルがソートできるわけではありません。リスト表示だけです。
+
 　
