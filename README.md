@@ -1,13 +1,13 @@
 # RetroPcFiler
 ![TITLE](https://github.com/yanataka60/RetroPcFiler/blob/main/GAZOU/TITLE.png)
 
-　今まで開発してきたxx_SDをWindowsPCから操作するユーティリティです。
-
 #### ~~現在MZ-2500用以外の機種の対応が終わり公開しています。MZ-2500用についてもArduinoプログラムの検証が済み次第追加します。~~
 
 #### 2026.11.22 MZ-2500については、独立したツールとし、RetroPcFilerからは対象外としました。
 
 https://github.com/yanataka60/MZ-2500-SD-Copy-Tool/tree/main#mz-2500-remote-filer
+
+　今まで開発してきたxx_SDをWindowsPCから操作するユーティリティです。
 
 　基本機能として以下のことが出来ます。
 
